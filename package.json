@@ -1,6 +1,6 @@
 {
   "name": "@keagan1998/js-dsa",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Data Structures and Algorithms implemented in JavaScript",
   "main": "index.js",
   "scripts": {

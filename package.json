@@ -1,0 +1,19 @@
+{
+  "name": "@keagan1998/js-dsa",
+  "version": "1.0.4",
+  "description": "Data Structures and Algorithms implemented in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "LinkedList",
+    "PriorityQueue",
+    "Stack",
+    "Queue",
+    "BinaryTree",
+    "Data Structures"
+  ],
+  "author": "Keagan Ferrao",
+  "license": "ISC"
+}

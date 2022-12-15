@@ -5,6 +5,7 @@
  2. Queue / Priority Queue
  3. Linked List (Singly)
  4. Binary Tree
+ 5. Array Utils
 
 
  ## Available Methods:
@@ -40,3 +41,19 @@
  5. height()
  6. insertInLevelOrder()
  7. deleteNode()
+
+ ### Array Utils
+ 1. selectionSort()
+ 2. bubbleSort()
+ 3. insertionSort()
+ 4. quickSort()
+ 5. mergeSort()
+
+ ## Installation
+ ```
+npm i @keagan1998/js-dsa
+ ```
+ How to use,
+  ```
+const { PriorityQueue, BinaryTree, ArrayUtils } = require('@keagan1998/js-dsa'); 
+```

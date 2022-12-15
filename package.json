@@ -16,7 +16,12 @@
     "Stack",
     "Queue",
     "BinaryTree",
-    "Data Structures"
+    "Data Structures",
+    "Selection Sort",
+    "Merge Sort",
+    "Insertion Sort",
+    "Bubble Sort",
+    "Quick Sort"
   ],
   "author": "Keagan Ferrao",
   "license": "ISC"
